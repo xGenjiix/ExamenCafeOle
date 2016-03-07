@@ -1,3 +1,4 @@
+//Prueba de edicion by Jean Carlos
 package GN;
 
 import java.io.*;
